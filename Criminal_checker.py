@@ -6,3 +6,9 @@ if criminalname == correct_criminalname and criminalnumber == correct_criminalnu
     print("Criminal found in the police station list.")
 else:
     print("Criminal not found in the police station list.")
+
+    #output#
+Enter criminal name: Dany
+Enter  criminal number: 420
+Criminal found in the police station list.
+
